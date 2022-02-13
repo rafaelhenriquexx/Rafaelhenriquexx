@@ -12,6 +12,7 @@
 <p align="left">
   💼 Ferramentas: <strong>Git | Github</strong>
 </p>
+<a href="https://www.linkedin.com/in/rafael-henrique-146a09226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
  
